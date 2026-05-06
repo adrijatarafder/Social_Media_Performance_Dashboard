@@ -1,5 +1,8 @@
 SocialBoard – Social Media Performance Dashboard
 
+LIVE DASHBOARD
+[View Dashboard](https://datastudio.google.com/reporting/56c33203-077b-44aa-a329-859133d4a214)
+
 
 A professional social media analytics dashboard built using Google Looker Studio and Google Sheets, designed to help content creators and digital marketers track engagement, analyze platform performance, and identify high-performing content across multiple social media platforms.
 The project focuses on transforming raw social media data into actionable insights through interactive visualizations and KPI-driven analytics.
@@ -115,9 +118,10 @@ Marketing Students & Researchers
 
 MAIN DASHBOARD
 
+![Dashboard](SocialBoard_screenshot/dashboard_overview.png)
 
-LIVE DASHBOARD
-[View Dashboard](https://datastudio.google.com/u/0/reporting/56c33203-077b-44aa-a329-859133d4a214/page/kl1wF/edit)
+![Dashboard Analytics](SocialBoard_screenshots/dashboard_2.png)
+
 
 💡 Key Insights Enabled by the Dashboard
 Identify the best-performing social media platform
